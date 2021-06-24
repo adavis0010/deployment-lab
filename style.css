@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/2b/19/0c/2b190c4574b74c98ebd5bd1aebd7224e.gif");
+    background-repeat: repeat;
+    font-family: "Brush Script", cursive;
+    color: black;
+    text-align: center;
+    line-height: 300%;
+}
+.text-box{
+    background-color: rgb(202, 202, 202)
+
+}
+
+/* img{
+
+} */
